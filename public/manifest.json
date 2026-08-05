@@ -1,0 +1,24 @@
+{
+  "name": "AnDownloader Pro",
+  "short_name": "AnDownloader",
+  "description": "Multi-platform video & audio downloader with AI capability",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07080d",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/color/192/000000/download-from-cloud.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://img.icons8.com/color/512/000000/download-from-cloud.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "categories": ["utilities", "productivity"],
+  "screenshots": []
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Video & Audio Downloader",
+  "description": "An Android-style universal video and audio downloader app. Paste any video link to download it as MP4 or MP3 from popular social platforms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
